@@ -9,4 +9,4 @@ for num in list2:
     if num % 2 == 0:
         result_list.append(num)
 
-print(result_list)
+print("result list:", result_list)
